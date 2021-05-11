@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+
+    <dimen name="notes_height">150dp</dimen>
+
+    <integer name="angle_size">-90</integer>
+</resources>

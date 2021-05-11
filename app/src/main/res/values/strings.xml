@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tawk-Android-Examples</string>
+    <string name="users_activity">Users Activity</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="room_database">Room Database</string>
+    <string name="followers_text">followers:</string>
+    <string name="following_text">following:</string>
+    <string name="name_text">name:</string>
+    <string name="company_text">company:</string>
+    <string name="blog_text">blog:</string>
+    <string name="notes_text">Notes</string>
+    <string name="save_text">Save</string>
+</resources>
